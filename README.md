@@ -40,7 +40,7 @@ Este trabalho foi desenvolvido por:
 
 ## Requisitos
 
-- Compilador C (pode ser GCC)
+- Compilador C (pode ser makefile)
 - Ambiente Linux (recomendado)
 
 ## Instruções de Compilação e Execução
